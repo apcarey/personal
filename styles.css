@@ -1,0 +1,12 @@
+.biography{
+   background-image: url("images/befunkycollage.jpg");
+   background-size: contain;
+   background-repeat: repeat;
+}
+
+ul{
+   font-size: 200%;
+   color: white;
+}
+.favorites{
+   background-color: turquoise;
