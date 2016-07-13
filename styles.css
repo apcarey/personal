@@ -1,12 +1,15 @@
 .biography{
-   background-image: url("images/befunkycollage.jpg");
-   background-size: contain;
-   background-repeat: repeat;
+    background-image: url("images/befunkycollage.jpg");
+    background-size: contain;
+    background-repeat: repeat;
+    font-size: 100%;
 }
 
 ul{
-   font-size: 200%;
-   color: white;
+    font-size: 200%;
+    color: white;
 }
 .favorites{
-   background-color: turquoise;
+    background-color: turquoise;
+    color:pink;
+}
